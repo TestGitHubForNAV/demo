@@ -5,4 +5,4 @@ Dynamics NAV version control with GIT
 
 
 
-Some updates in the file to test Branching
+Some updates in the file to test Branching,Test
