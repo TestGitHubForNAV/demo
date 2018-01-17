@@ -1,3 +1,3 @@
 Testing GIT for NAV
 
-Dynamics NAV version control
+Dynamics NAV version control with GIT
